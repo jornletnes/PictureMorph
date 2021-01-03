@@ -1,5 +1,2 @@
-/out/production/PictureMorph/jorn/letnes/ImageReader.class
-/out/production/PictureMorph/jorn/letnes/Main.class
-/out/production/PictureMorph/jorn/letnes/MyPanel.class
-/out/production/PictureMorph/jorn/letnes/PictureMorpher$1.class
-/out/production/PictureMorph/jorn/letnes/PictureMorpher.class
+/out/*
+*.class
